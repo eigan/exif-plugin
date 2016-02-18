@@ -1,2 +1,4 @@
 title = "EXIF sync"
 description = "Sync EXIF content into all photos that supports exif"
+
+main = "Tagstore\\Plugin\\ExifPlugin"
