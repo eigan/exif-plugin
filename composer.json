@@ -1,0 +1,12 @@
+{
+    "name": "eigan/exif-plugin",
+    "description": "Plugin for [...]. Sync exif for each file.",
+
+    "require": {
+        "eigan/tagstore": "dev-master"
+    },
+
+    "autoload": {
+        "psr-4": {"Tagstore\\Plugin\\": "src/"}
+    }
+}
